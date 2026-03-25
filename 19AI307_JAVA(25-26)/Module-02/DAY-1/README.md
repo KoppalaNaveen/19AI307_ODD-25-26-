@@ -62,3 +62,4 @@ public class Main
 
 
 ## RESULT:
+The program successfully defines a Teacher class with attributes for name, subject, and experience, creates an object with the given values, and displays the teacher’s details correctly.
